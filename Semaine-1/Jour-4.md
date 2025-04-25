@@ -5,10 +5,10 @@
 
 #### Git
 
-- [ ] Installation et configuration de Git (GitBash?)
-- [ ] Comprendre le concept de versionning
+- [x] Installation et configuration de Git (GitBash?)
+- [x] Comprendre le concept de versionning
 - [ ] Comprendre le fonctionnement de Git
-    - [ ] Comprendre le staging de Git
+    - [x] Comprendre le staging de Git
     - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
         - [ ] git init
         - [ ] git add

@@ -7,16 +7,16 @@
 
 - [x] Installation et configuration de Git (GitBash?)
 - [x] Comprendre le concept de versionning
-- [ ] Comprendre le fonctionnement de Git
+- [x] Comprendre le fonctionnement de Git
     - [x] Comprendre le staging de Git
-    - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-        - [ ] git init
-        - [ ] git add
-        - [ ] git status
-        - [ ] git commit
-        - [ ] git pull
-        - [ ] git push
-        - [ ] git clone
+    - [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+        - [x] git init
+        - [x] git add
+        - [x] git status
+        - [x] git commit
+        - [x] git pull
+        - [x] git push
+        - [x] git clone
         - [ ] git remote
 - [ ] Faire le parcours Git-it (Nodeschool.io)
 - [ ] Comprendre les termes "local", "origin" et "upstream"
